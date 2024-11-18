@@ -17,7 +17,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: skyblue; 
+            background-color: #000000; 
         }
 
         .todo-container {
@@ -51,7 +51,7 @@
         }
 
         .input-section button {
-            background-color: #32CD32; 
+            background-color: #7a32cd; 
             border: none;
             color: white;
             padding: 10px 15px;
@@ -114,7 +114,7 @@
         }
 
         .action-links .edit-btn {
-            background-color: #007bff; 
+            background-color: #7d3c98; 
         }
 
         .action-links .edit-btn:hover {
@@ -126,7 +126,7 @@
         }
 
         .action-links .delete-btn:hover {
-            background-color: #cc0000; 
+            background-color: #C70039; 
         }
 
         .modal {
